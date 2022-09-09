@@ -3,3 +3,4 @@
 2-assembler: create the assembler file
 3-name: create the executable cisfun
 4-puts.c: Display the text
+5-printf: prints the text with printf
