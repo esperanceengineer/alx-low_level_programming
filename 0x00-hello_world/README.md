@@ -2,3 +2,4 @@
 1-compiler: create the compiled file
 2-assembler: create the assembler file
 3-name: create the executable cisfun
+4-puts.c: Display the text
