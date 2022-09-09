@@ -5,3 +5,5 @@
 4-puts.c: Display the text
 5-printf: prints the text with printf
 6-size.c: prints the size of various types
+101-intel: create the assembly file with intel
+102-quote.c: prints the quote with another method
