@@ -7,3 +7,4 @@
 6-print_numberz.c: prints all numbers with putchar
 7-print_tebahpla.c: prints the alphabets in reverse
 8-print_base_16.c: prints the numbers in base 16
+9-print_comb.c: prints the combinaisons of digital
