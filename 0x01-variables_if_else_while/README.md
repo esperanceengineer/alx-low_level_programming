@@ -4,3 +4,4 @@
 3-print_alphabets.c: prints the alphabets in lowercase and uppercase
 4-print_alphabt.c: prints the alphabets without q and e
 5-print_numbers.c: prints all numbers
+6-print_numberz.c: prints all numbers with putchar
