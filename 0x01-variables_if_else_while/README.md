@@ -8,6 +8,6 @@
 7-print_tebahpla.c: prints the alphabets in reverse
 8-print_base_16.c: prints the numbers in base 16
 9-print_comb.c: prints the combinaisons of digital
-100-print_combo3.c:
-101-print_combo4.c:
-102-print_combo5.c:
+100-print_combo3.c:prints the combinaisons of two digits
+101-print_combo4.c: prints the combinaisons of three digits
+102-print_combo5.c: prints the combinaisons of four digits
