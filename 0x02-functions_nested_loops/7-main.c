@@ -1,0 +1,15 @@
+#include "main.h"
+
+/**
+ * main - entry point
+ * Return: always return 0
+ */
+int main(void)
+{
+	int r;
+
+	r = print_last_digit(98);
+	_putchar(r + '0');
+	_putchar('\n');
+	return (0);
+}
