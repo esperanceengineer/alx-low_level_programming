@@ -4,3 +4,4 @@
 3-islower.c: checks for the lower character
 4-isalpha: checki is the char is alphabet
 5-sign: prints the sign of number
+6-abs: prints the absolute value
