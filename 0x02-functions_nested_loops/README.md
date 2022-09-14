@@ -7,3 +7,5 @@
 6-abs: prints the absolute value
 7-print_last_digit: prints the last digit of number
 9-times_table: displaye the table
+10-add.c: add two integer
+11-print_to_98.c: prints all numbers to 98
