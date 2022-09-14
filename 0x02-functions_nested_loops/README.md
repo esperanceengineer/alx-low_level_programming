@@ -6,3 +6,4 @@
 5-sign: prints the sign of number
 6-abs: prints the absolute value
 7-print_last_digit: prints the last digit of number
+9-times_table: displaye the table
