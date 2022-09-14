@@ -6,6 +6,7 @@
 5-sign: prints the sign of number
 6-abs: prints the absolute value
 7-print_last_digit: prints the last digit of number
+8-24_hours.c: prints all minutes of a day
 9-times_table: displaye the table
 10-add.c: add two integer
 11-print_to_98.c: prints all numbers to 98
