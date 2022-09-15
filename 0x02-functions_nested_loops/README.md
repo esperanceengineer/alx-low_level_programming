@@ -10,3 +10,4 @@
 9-times_table: displaye the table
 10-add.c: add two integer
 11-print_to_98.c: prints all numbers to 98
+100-times_table: prints n tables
