@@ -5,3 +5,4 @@
 4-rev_array: reverse the array
 5-string_toupper.c: uppcase the string
 6-cap_string: capitalize the word
+7-leet.c: convert string leet to 1337
