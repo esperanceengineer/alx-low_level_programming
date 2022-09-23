@@ -4,3 +4,4 @@
 3-strcmp.c: compare two strings
 4-rev_array: reverse the array
 5-string_toupper.c: uppcase the string
+6-cap_string: capitalize the word
