@@ -6,3 +6,4 @@
 5-strstr.c: locate the subtring
 6-print_chessboard: prints the chessboard
 7-void print_diagsums: prints the sum of diagonals
+100-set_string.c: set the value of pointer to char
