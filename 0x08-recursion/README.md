@@ -4,4 +4,5 @@
 3-factorial.c: return the factorial
 4-pow.c: return the pow of two integer
 5-sqrt_reverse.c: return the root square of number
-sh: 1: q: not found
+6-is_prime_numver.c: check the prime number
+100-is_palindrome.c: check the string
