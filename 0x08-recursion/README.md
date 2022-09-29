@@ -4,3 +4,4 @@
 3-factorial.c: return the factorial
 4-pow.c: return the pow of two integer
 5-sqrt_reverse.c: return the root square of number
+sh: 1: q: not found
