@@ -6,3 +6,4 @@
 5-sqrt_reverse.c: return the root square of number
 6-is_prime_numver.c: check the prime number
 100-is_palindrome.c: check the string
+101-wildcmp.c: wild compare two strings
