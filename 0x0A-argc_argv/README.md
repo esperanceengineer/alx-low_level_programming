@@ -1,2 +1,3 @@
 0-whatsmyname.c: prints the name of program
-1-arg.c: prints the number of arguments
+1-args.c: prints the number of arguments
+2-args.c: prints all arguments
