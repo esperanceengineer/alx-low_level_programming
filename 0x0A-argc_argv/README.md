@@ -2,3 +2,4 @@
 1-args.c: prints the number of arguments
 2-args.c: prints all arguments
 3-mul.c: multiply the arguments
+4-add.c: add the arguments
