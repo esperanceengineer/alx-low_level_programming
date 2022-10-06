@@ -8,14 +8,17 @@
  */
 char *argstostr(int argc, char **argv)
 {
-	int i = 0, n = 0, k = 0, j = 0, len;
+	long int i = 0, n = 0, k = 0, j = 0, len;
 	char *str;
 
 	if (argc == 0 || argv == NULL)
 		return (NULL);
 	for (i = 0; i < argc; i++)
-		n += strlen(argv[i]);
-	str = malloc(sizeof(char) * n + 1);
+	{
+		len = strlen(argv[i]);
+		n = n + len;
+	}
+	str = malloc(sizeof(char) * n + (argc + 1));
 
 	for (i = 0; i < argc; i++)
 	{
